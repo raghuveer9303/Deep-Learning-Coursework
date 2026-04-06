@@ -1,6 +1,6 @@
 # Deep Learning Coursework - H-518
 
-![Build Status](https://img.shields.io/badge/build-not%20configured-lightgrey)
+![Build Status](https://img.shields.io/badge/build-not_configured-lightgrey)
 ![Runtime](https://img.shields.io/badge/runtime-python%203.10%2B-blue)
 ![License](https://img.shields.io/badge/license-unlicensed-lightgrey)
 
@@ -158,4 +158,4 @@ Experimental: hyperparameter settings and LLM fine-tuning recipes that are envir
 
 ## Author
 
-Raghuveer — [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/raghuveer9303)
+Raghuveer — [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/raghuveer9303)
