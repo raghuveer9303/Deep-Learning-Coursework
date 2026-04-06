@@ -46,11 +46,6 @@ Sample Prompt: "What is first-line treatment for hypertension?"
 Sample Output: "Lifestyle modification and guideline-based antihypertensives are typically first-line..."
 ```
 
-```markdown
-![Training curves placeholder](./assets/demo-training-curves.png)
-![Inference walkthrough placeholder](./assets/demo-inference.gif)
-```
-
 ## Technologies Used ☕️ 🐍 ⚛️
 
 | Layer | Tools |
